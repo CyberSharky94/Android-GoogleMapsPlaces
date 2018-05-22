@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapPlaceStudy</string>
+
+    <string name="gogole_maps_API_key">AIzaSyAvG_foBYIROD7v9ZPM8CZWoqTnBOGiwPA</string>
+</resources>
