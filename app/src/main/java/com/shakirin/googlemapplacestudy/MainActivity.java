@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
             dialog.show();
         } else {
             Toast.makeText(this, "You can't make map requests", Toast.LENGTH_SHORT).show();
-        } return false;
+        }
+        return false;
     }
 }

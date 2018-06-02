@@ -21,10 +21,10 @@ public class PlaceInfo {
         this.address = null;
         this.phoneNumber = null;
         this.id = null;
-        this.websiteUri = null;
+        this.websiteUri = Uri.EMPTY;
         this.latLng = null;
         this.rating = 0;
-        this.attributions = null;
+//        this.attributions = null;
 
     }
 
